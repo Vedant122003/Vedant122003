@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vedant Sinha, a third-year student of Computer Science Engineering at VIT Bhopal, specializing in web development. I'm passionate about coding and love to explore the latest trends in technology. Outside of classes, I enjoy honing my skills in web development and creating innovative websites. My goal is to become proficient in the field of development and create impactful digital experiences.
+I'm Vedant Sinha, a final-year student of Computer Science Engineering at VIT Bhopal, specializing in web development. I'm passionate about coding and love to explore the latest trends in technology. Outside of classes, I enjoy honing my skills in web development and creating innovative websites. My goal is to become proficient in the field of development and create impactful digital experiences.
 
 
 ## 🌐 Socials:
